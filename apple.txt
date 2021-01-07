@@ -3,3 +3,6 @@ cucumber doesn't like potato
 
 apple doesn't like cucumber
 pineapple likes potato
+
+fruit content
+new content
